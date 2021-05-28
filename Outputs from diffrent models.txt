@@ -1,0 +1,13 @@
+Test Outputs:-
+
+Linear Regression
+Mean: 5.030437102767304
+Standard deviation: 1.0607661158294832
+
+Decision Tree Classifier
+Mean: 4.242972594541079
+Standard deviation: 0.8190342474882949
+
+Random Forest Classifier
+Mean: 3.3248281056814064
+Standard deviation: 0.7773219957321641
